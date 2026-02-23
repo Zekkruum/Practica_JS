@@ -1,1 +1,1 @@
-# Practica_JS
+Dentro de este repositorio se encontraran archivos de practica sobre el lenguaje de JavaScript
